@@ -80,6 +80,9 @@ div#signup {
     margin-top: 150px;
 }
 
+input#fName {
+    border-bottom: 1px solid #026CA1;
+}
 
   
 
